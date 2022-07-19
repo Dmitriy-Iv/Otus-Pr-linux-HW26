@@ -16,5 +16,5 @@ vagrant up
 
 - Проверка:
 ![alt text](/project/screens/django.PNG?raw=true "Screenshot1")  
-![alt text](/project/screens/node js.PNG?raw=true "Screenshot2")  
+![alt text](/project/screens/node_js.PNG?raw=true "Screenshot2")  
 ![alt text](/project/screens/wordpress.PNG?raw=true "Screenshot1")  
